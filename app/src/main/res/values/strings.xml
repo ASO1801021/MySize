@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySize</string>
+    <string name="heignt">170</string>
+    <string name="text">身長</string>
+    <string name="heignt1">140</string>
+    <string name="heignt2">150</string>
+    <string name="heignt3">160</string>
+    <string name="heignt4">170</string>
+</resources>
